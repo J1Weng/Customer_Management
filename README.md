@@ -15,13 +15,12 @@
 功能截图
 -----------
 * #### 主页展示
-![](https://github.com/J1Weng/Customer_Management/blob/master/eclipse-workspace/customer_management/img/mmexport1531898893315.jpg)<br>
+![主页展示](https://github.com/J1Weng/Customer_Management/blob/master/Customer_Management/customer_management/img/mmexport1531898893315.jpg)<br>
 <br>
 * #### 添加客户
-![](https://github.com/J1Weng/Customer_Management/blob/master/eclipse-workspace/customer_management/img/mmexport1531898904740.jpg)
-<br>
+![添加客户](https://github.com/J1Weng/Customer_Management/blob/master/Customer_Management/customer_management/img/mmexport1531898904740.jpg)<br>
 * #### 查询客户
-![](https://github.com/J1Weng/Customer_Management/blob/master/eclipse-workspace/customer_management/img/mmexport1531898912548.jpg)
+![查询客户](https://github.com/J1Weng/Customer_Management/blob/master/Customer_Management/customer_management/img/mmexport1531898912548.jpg)
 <br>
 * #### 高级搜索
-![](https://github.com/J1Weng/Customer_Management/blob/master/eclipse-workspace/customer_management/img/mmexport1531898923048.jpg)
+![高级搜索](https://github.com/J1Weng/Customer_Management/blob/master/Customer_Management/customer_management/img/mmexport1531898923048.jpg)
